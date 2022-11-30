@@ -1,0 +1,8 @@
+C:\Users\Furkan\source\repos\ForDongusuCarpımTablo\ForDongusuCarpımTablo\bin\Debug\ForDongusuCarpımTablo.exe.config
+C:\Users\Furkan\source\repos\ForDongusuCarpımTablo\ForDongusuCarpımTablo\bin\Debug\ForDongusuCarpımTablo.exe
+C:\Users\Furkan\source\repos\ForDongusuCarpımTablo\ForDongusuCarpımTablo\bin\Debug\ForDongusuCarpımTablo.pdb
+C:\Users\Furkan\source\repos\ForDongusuCarpımTablo\ForDongusuCarpımTablo\obj\Debug\ForDongusuCarpımTablo.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\ForDongusuCarpımTablo\ForDongusuCarpımTablo\obj\Debug\ForDongusuCarpımTablo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Furkan\source\repos\ForDongusuCarpımTablo\ForDongusuCarpımTablo\obj\Debug\ForDongusuCarpımTablo.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\ForDongusuCarpımTablo\ForDongusuCarpımTablo\obj\Debug\ForDongusuCarpımTablo.exe
+C:\Users\Furkan\source\repos\ForDongusuCarpımTablo\ForDongusuCarpımTablo\obj\Debug\ForDongusuCarpımTablo.pdb
